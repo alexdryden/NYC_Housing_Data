@@ -1,4 +1,4 @@
 .DS_Store
 .ipynb_checkpoints/
-.raw_data/
-.Manifest.ipynb
+raw_data/
+Manifest.ipynb
